@@ -1,4 +1,4 @@
-👋 Hey there! I’m Ashley! CS student @ Fayetteville State University (@amrivera22)  
+👋 Hey there! I’m Ashley! CS student @ Fayetteville State University
 - 👀 On a mission to build cool things for the web!  
 - 🌱 Currently leveling up in HTML, CSS, Python, JavaScript, React, and backend development.  
 - 💞️ Open to collaborating on fun web projects, open-source contributions, or anything creative!  
